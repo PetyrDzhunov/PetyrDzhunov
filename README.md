@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React,Express,MongoDB and Node.js.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything.
+-  I'm currently looking for a software development internship role.
 
 <p align="center">
  <a href="https://www.facebook.com/djunov" target="_blank" rel="noopener noreferrer"> <img src="https://iconape.com/wp-content/files/yd/117914/svg/Facebook_f_logo__2019_.svg" alt="Facebook-logo" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -15,9 +16,14 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+<img src="https://boffincoders.com/wp-content/uploads/2021/05/convert-css-to-sass-or-scss-expeditiously.jpg" alt="css/sass" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React JS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/takuya-motoshima/express-sweet/main/logo.svg" alt="Express/Node.js" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.pngkit.com/png/detail/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png" alt="Mongo DB" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="Mongo DB" height="40" style="vertical-align:top; margin:4px">
+
 </p
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PetyrDzhunov&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyrDzhunov&theme=tokyonight)
