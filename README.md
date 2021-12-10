@@ -23,7 +23,7 @@
 <img src="https://www.pngkit.com/png/detail/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png" alt="Mongo DB" height="40" style="vertical-align:top; margin:4px">
 <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" alt="Mongo DB" height="40" style="vertical-align:top; margin:4px">
 </p>
-<div style="display:flex; justifyContent:spaceBetween"}>
+<div style="display:flex; justifyContent:spaceBetween">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PetyrDzhunov&show_icons=true&theme=aura)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyrDzhunov&theme=aura)               
