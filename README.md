@@ -25,8 +25,6 @@
 <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" alt="Mongo DB" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<p>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PetyrDzhunov&show_icons=true&theme=aura)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyrDzhunov&theme=aura)
-</p>
 
