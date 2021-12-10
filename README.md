@@ -22,10 +22,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React JS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/takuya-motoshima/express-sweet/main/logo.svg" alt="Express/Node.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.pngkit.com/png/detail/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png" alt="Mongo DB" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="Mongo DB" height="40" style="vertical-align:top; margin:4px">
-
+<img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" alt="Mongo DB" height="40" style="vertical-align:top; margin:4px">
 </p
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PetyrDzhunov&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyrDzhunov&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PetyrDzhunov&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyrDzhunov&theme=tokyonight)
 
 
