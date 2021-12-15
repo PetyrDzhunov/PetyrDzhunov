@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working on personal project with the MERN tech stack.
 - 🌱 I’m currently learning React,Express,MongoDB and Node.js.
-- 👯 I’m looking to collaborate with anyone on any project.
+- 👯  I’m looking to get my first job as React Developer.
 - 💬 Ask me about anything.
--  I'm currently looking for a software development internship role.
 
 <p align="center">
  <a href="https://www.facebook.com/djunov" target="_blank" rel="noopener noreferrer"> <img src="https://iconape.com/wp-content/files/yd/117914/svg/Facebook_f_logo__2019_.svg" alt="Facebook-logo" height="40" style="vertical-align:top; margin:4px"> </a>
