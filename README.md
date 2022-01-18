@@ -1,8 +1,7 @@
 ### Hi there 👋 
-
-- 🔭 I’m currently working on personal project with the MERN tech stack.
-- 🌱 I’m currently learning React,Express,MongoDB and Node.js.
-- 👯  I’m looking to get my first job as React Developer.
+-  I'm currently a SoftUni Bootcamp intern
+- 🌱 I’m currently learning React, NextJS , NestJS , PostgreSQL and Prisma.
+- 👯  I’m looking to get my first job as a fullstack web developer.
 - 💬 Ask me about anything.
 
 <p align="center">
