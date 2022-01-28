@@ -18,6 +18,14 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React JS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://miro.medium.com/max/1051/1*q9myzo5Au8OfsaSrCodNmw.png" alt="Express/Node.js" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://s3.eu-central-1.wasabisys.com/kirelos/wp-content/uploads/2020/07/06051208/install-postgresql-13-on-centos-8-rhel-8.png" alt="PostgreSQL DB" height="40" style="vertical-align:top; margin:4px">
+<img src="https://reffect.co.jp/wp-content/uploads/2020/09/next_js_basic.png" alt="NextJS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/c704e8013883cc3a04c7657e656fe30be5b188145d759a6aaff441658c5ffae0/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f5f746578742e737667" alt="NestJS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://tsed.io/prisma-2.svg" alt="Prisma ORM" height="40" style="vertical-align:top; margin:4px">
+
+                                                                                                                                                      
+                                                                                                                                                 
 <img src="https://www.pngkit.com/png/detail/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png" alt="Mongo DB" height="40" style="vertical-align:top; margin:4px">
 </p>
 
