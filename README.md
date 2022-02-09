@@ -5,7 +5,6 @@
 - 💬 Ask me about anything.
 
 <p align="center">
- <a href="https://www.facebook.com/djunov" target="_blank" rel="noopener noreferrer"> <img src="https://iconape.com/wp-content/files/yd/117914/svg/Facebook_f_logo__2019_.svg" alt="Facebook-logo" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/petar-dzhunov-9515b6210/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="LinkedIn-logo" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:petar.djunov@abv.bg> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
