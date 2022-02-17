@@ -1,8 +1,5 @@
 ### Hi there 👋 
--  I'm currently a SoftUni Bootcamp intern
-- 🌱 I’m currently learning React, NextJS , NestJS , PostgreSQL and Prisma.
-- 👯  I’m looking to get my first job as a fullstack web developer.
-- 💬 Ask me about anything.
+-  I'm currently a intern at Accedia
 
 <p align="center">
  <a href="https://www.linkedin.com/in/petar-dzhunov-9515b6210/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="LinkedIn-logo" height="40" style="vertical-align:top; margin:4px"></a>
