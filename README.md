@@ -1,4 +1,7 @@
 ### Hi there 👋 
+### I am a front-end developer mainly working with React/Typescript.
+### I am also a blockchain enthusiast currently learning Solidity and the whole web3/blockchain ecosystem.
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 <p align="center">
  <a href="https://www.linkedin.com/in/petar-dzhunov-9515b6210/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="LinkedIn-logo" height="40" style="vertical-align:top; margin:4px"></a>
