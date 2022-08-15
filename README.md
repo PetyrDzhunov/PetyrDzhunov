@@ -8,11 +8,14 @@
  <a href="mailto:petar.djunov@abv.bg> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://boffincoders.com/wp-content/uploads/2021/05/convert-css-to-sass-or-scss-expeditiously.jpg" alt="css/sass" height="40" style="vertical-align:top; margin:4px">
+<img src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" alt="Hardhat" height="40" style="vertical-align:top; margin:4px">
+<img src="https://i0.wp.com/blog.openzeppelin.com/wp-content/uploads/2016/09/1_2uu_MNW3D-XUJ6jleukUug.png?resize=840%2C313&ssl=1" alt="OpenZeppelin" height="40" style="vertical-align:top; margin:4px">
+<img src="https://gitcoin.co/blog/wp-content/uploads/2022/07/ethersjs.png" alt="OpenZeppelin" height="40" style="vertical-align:top; margin:4px">
+<img src="https://metaschool.so/articles/wp-content/uploads/2022/03/Frame-76.png" alt="Solidity" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React JS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://miro.medium.com/max/1051/1*q9myzo5Au8OfsaSrCodNmw.png" alt="Express/Node.js" height="40" style="vertical-align:top; margin:4px">
