@@ -1,6 +1,5 @@
 ### Hi there 👋 
 ### I am a fullstack developer mainly working with React Ecosystem and Node.js.
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 <ul align="center">
  <a href="https://www.linkedin.com/in/petar-dzhunov-9515b6210/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="LinkedIn-logo" height="40" style="vertical-align:top; margin:4px"></a>
