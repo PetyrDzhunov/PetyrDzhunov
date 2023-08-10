@@ -1,6 +1,5 @@
 ### Hi there 👋 
-### I am a front-end developer mainly working with React/Typescript.
-### I am also a blockchain enthusiast currently learning Solidity and the whole web3/blockchain ecosystem.
+### I am a fullstack developer mainly working with React Ecosystem and Node.js.
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 <ul align="center">
@@ -30,5 +29,4 @@
 </ul>
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PetyrDzhunov&show_icons=true&theme=aura)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyrDzhunov&theme=aura)               
