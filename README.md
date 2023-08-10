@@ -27,6 +27,4 @@
 <img src="https://camo.githubusercontent.com/c704e8013883cc3a04c7657e656fe30be5b188145d759a6aaff441658c5ffae0/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f5f746578742e737667" alt="NestJS" height="40" style="vertical-align:top; margin:8px">
 <img src="https://www.pngkit.com/png/detail/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png" alt="Mongo DB" height="55" style="vertical-align:top; margin:4px">
 </ul>
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyrDzhunov&theme=aura)               
+</div>             
