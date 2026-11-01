@@ -22,4 +22,4 @@ I care about maintainable, reliable software and practical solutions. I enjoy un
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- [LinkedIn](https://www.linkedin.com/in/petar-dzhunov-9515b6210/)
